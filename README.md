@@ -25,7 +25,7 @@ The following instructions assume you are testing the code on Google Colab. You 
 
 ---
 
-## 1️⃣ First Step
+## 1️⃣ First Step - SET UP
 
 To test the code, upload the `.laz` file you downloaded from IGN to your Google Colab instance. You can download the file from the following link:  
 [https://cartes.gouv.fr/telechargement/IGNF_NUAGES-DE-POINTS-LIDAR-HD](https://cartes.gouv.fr/telechargement/IGNF_NUAGES-DE-POINTS-LIDAR-HD)
