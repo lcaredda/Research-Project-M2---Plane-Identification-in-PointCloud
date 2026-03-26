@@ -61,12 +61,12 @@ A `plot()` function is created  with plotly library to visualize the 3D point cl
 
 ### 2nd Part
 
-Make sure to replace the placeholder file name in the code with your actual `.laz file` name:
+Make sure to replace the file name in the code with your actual `.laz` file name:
 `las = laspy.read('your_file_name.laz')  # Replace 'your_file_name.laz' with your actual file name`
-The IGN has already predone the work by classifying the raw data given. 
-We will directly takes only relevant points belonging to building by filtering with the coresponding categorie (categorie 6)
+The IGN has already predone the work by classifying the raw data available in opensource. 
+Since we want to calculate slope of planar rooftop, we will directly takes relevant points belonging to building by filtering with the coresponding categorie (categorie 6).
 
 📊 ***Point Cloud Classification (IGN)***
 ![IGN Point Cloud Classification](https://github.com/user-attachments/assets/3c57e7f5-b711-4d83-b1b5-260aa5dbf21c)
 
-**Source working on 26/03/2026:** [IGN LiDAR HD Documentation (PDF)](https://geoservices.ign.fr/sites/default/files/2025-03/DC_LiDAR_HD_1-0.pdf)
+**Source (link checked 26/03/2026) :** [IGN LiDAR HD Documentation (PDF)](https://geoservices.ign.fr/sites/default/files/2025-03/DC_LiDAR_HD_1-0.pdf)
