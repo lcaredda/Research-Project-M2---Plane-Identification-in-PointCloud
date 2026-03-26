@@ -2,7 +2,7 @@
 
 **Last update:** 26/03/2026
 
-This repository contains the work I carried out during my Master's degree, focused on **plane identification in point clouds** using open-source LiDAR data from [IGN](https://www.ign.fr/](https://cartes.gouv.fr/rechercher-une-donnee/dataset/IGNF_NUAGES-DE-POINTS-LIDAR-HD ).
+This repository contains the work I carried out during my Master's degree, focused on **plane identification in point clouds** using open-source LiDAR data from [IGN](https://www.ign.fr/](https://cartes.gouv.fr/rechercher-une-donnee/dataset/IGNF_NUAGES-DE-POINTS-LIDAR-HD).
 
 The project is implemented in Python and consists of two main scripts:
 
