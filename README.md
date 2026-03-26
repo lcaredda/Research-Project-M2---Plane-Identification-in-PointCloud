@@ -52,19 +52,21 @@ You should obtain a `.laz` file.
 
 Once your .laz file is downloaded, open the script in Google Colab using the "Open in Colab" button.
 
-**1st Part**
+### 1st Part
+
 Run the first code cell and upload your .laz file when prompted.
 Note: This process may take 10–15 minutes to complete. Colab can run in the background, so you don’t need to stay on the page while waiting.
 After the import finishes, use the second cell to verify that your file name appears in the output.
 A `plot()` function is created  with plotly library to visualize the 3D point cloud process.
 
-**2nd Part**
+### 2nd Part
+
 Make sure to replace the placeholder file name in the code with your actual `.laz file` name:
 `las = laspy.read('your_file_name.laz')  # Replace 'your_file_name.laz' with your actual file name`
 The IGN has already predone the work by classifying the raw data given. 
 We will directly takes only relevant points belonging to building by filtering with the coresponding categorie (categorie 6)
 
-### 📊 Point Cloud Classification (IGN)
+📊 ***Point Cloud Classification (IGN)***
 ![IGN Point Cloud Classification](https://github.com/user-attachments/assets/3c57e7f5-b711-4d83-b1b5-260aa5dbf21c)
 
 **Source:** [IGN LiDAR HD Documentation (PDF)](https://geoservices.ign.fr/sites/default/files/2025-03/DC_LiDAR_HD_1-0.pdf)
