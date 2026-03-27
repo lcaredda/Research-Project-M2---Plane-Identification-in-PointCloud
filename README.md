@@ -43,7 +43,7 @@ To test the code, the only data you need to download locally is a LiDAR file of 
 You should obtain a `.laz` file.
 
 
-Once your .laz file is downloaded, open the script in Google Colab using the "Open in Colab" button.
+Once your `.laz` file is downloaded, open the script in Google Colab using the "Open in Colab" button.
 
 ### 1st Part
 
