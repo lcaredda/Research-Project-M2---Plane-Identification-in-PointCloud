@@ -29,13 +29,6 @@ For practical reasons, the code for plane detection on real data has been adapte
 
 To test the code, the only data you need to download locally is a LiDAR file of type `.laz` containing a raw point cloud of 1 km².
 
-### ⚠️ Note on Visualization
-- **Open3D** visualization is not supported in Google Colab.
-- Some adaptations have been made to enable execution in Colab.
-- In Colab, point cloud visualization is performed using **Plotly**.
-
-The following instructions assume you are testing the code on Google Colab. You will find a file named `Test.py` in this repository for this purpose.
-
 ---
 
 ## Setup Instruction
