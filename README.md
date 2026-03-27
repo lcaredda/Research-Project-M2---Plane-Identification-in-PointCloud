@@ -9,7 +9,7 @@ The project is implemented in Python and consists of two main scripts:
 - **Plane Detection on Real Data**
   This script detects planes from LiDAR point cloud tiles covering 1 km² areas in France.
 
-- **Algorithm Robustness Testing**
+- **Robustness Testing**
   This script evaluates the robustness of the detection algorithms using generated point clouds with variable parameters.
 
 ---
@@ -25,7 +25,7 @@ The LiDAR data used in this project comes from open-source datasets provided by 
 
 ## 🛠️ Utilisation
 
-For practical reasons, the code for plane detection on real data has been adapted to run on **Google Colab**. The robustness testing work still needs refinement before being shared.
+For practical reasons, the code has been adapted to run on **Google Colab**.
 
 To test the code, the only data you need to download locally is a LiDAR file of type `.laz` containing a raw point cloud of 1 km².
 
