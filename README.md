@@ -49,7 +49,8 @@ Once your `.laz` file is downloaded, open the notebook `main.ipynb` in Google Co
 Run the first code cell and upload your .laz file when prompted.
 Note: This process may take 10–15 minutes to complete. Colab can run in the background, so you don’t need to stay on the page while waiting.
 After the import finishes, use the second cell to verify that your file name appears in the output.
-A `plot()` function is created  with plotly library to visualize the 3D point cloud process.
+
+A `plot()` function is then created with plotly library to visualize the 3D point cloud process.
 
 ### 2nd Part
 
