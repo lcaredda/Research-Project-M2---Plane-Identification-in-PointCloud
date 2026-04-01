@@ -1,4 +1,4 @@
-# Research Project M2 — Plane Identification of Rooftops from LiDAR Data in France
+# Plane Identification of Rooftops from LiDAR Data in France
 
 **Last update:** 26/03/2026
 
